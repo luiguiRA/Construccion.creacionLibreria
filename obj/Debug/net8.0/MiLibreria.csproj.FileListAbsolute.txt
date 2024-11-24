@@ -1,0 +1,11 @@
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\bin\Debug\net8.0\MiLibreria.deps.json
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\bin\Debug\net8.0\MiLibreria.dll
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\bin\Debug\net8.0\MiLibreria.pdb
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\obj\Debug\net8.0\MiLibreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\obj\Debug\net8.0\MiLibreria.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\obj\Debug\net8.0\MiLibreria.AssemblyInfo.cs
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\obj\Debug\net8.0\MiLibreria.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\obj\Debug\net8.0\MiLibreria.dll
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\obj\Debug\net8.0\refint\MiLibreria.dll
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\obj\Debug\net8.0\MiLibreria.pdb
+D:\DOCUMENTOS\6 SEMESTRE\CONSTRUCCION Y EVOLUCION SW\pruebaUnitaria\MiLibreria\obj\Debug\net8.0\ref\MiLibreria.dll
